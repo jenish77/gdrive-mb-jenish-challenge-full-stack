@@ -41,7 +41,6 @@
 6. credentials
 
     ```bash
-    credentials.json
-    token.json are in github secrets
+    credentials.json and token.json and .env file are send in mail 
     ```           
 
